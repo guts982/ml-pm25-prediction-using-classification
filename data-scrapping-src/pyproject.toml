@@ -1,0 +1,12 @@
+[project]
+name = "weather-scrape"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.13.4",
+    "pandas>=2.2.3",
+    "selenium>=4.33.0",
+    "webdriver-manager>=4.0.2",
+]

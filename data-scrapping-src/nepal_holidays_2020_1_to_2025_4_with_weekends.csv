@@ -1,0 +1,847 @@
+date,name,type,year
+2020-01-15,Maghe Sankranti,Optional Holiday,2020
+2020-01-18,Saturday,Local Holiday,2020
+2020-01-19,Sunday,Local Holiday Optional,2020
+2020-01-25,Sonam Losar (Tamang New Year),Optional Holiday,2020
+2020-01-26,Sunday,Local Holiday Optional,2020
+2020-01-29,Basant Panchami,Academic Holiday,2020
+2020-01-30,Martyrs' Memorial Day,Observance,2020
+2020-02-01,Saturday,Local Holiday,2020
+2020-02-02,Sunday,Local Holiday Optional,2020
+2020-02-08,Saturday,Local Holiday,2020
+2020-02-09,Sunday,Local Holiday Optional,2020
+2020-02-15,Saturday,Local Holiday,2020
+2020-02-16,Sunday,Local Holiday Optional,2020
+2020-02-19,National Democracy Day,Observance,2020
+2020-02-21,Maha Shivaratri,Public Holiday,2020
+2020-02-22,Saturday,Local Holiday,2020
+2020-02-23,Sunday,Local Holiday Optional,2020
+2020-02-24,Gyalpo Losar,Optional Holiday,2020
+2020-02-29,Saturday,Local Holiday,2020
+2020-03-01,Sunday,Local Holiday Optional,2020
+2020-03-07,Saturday,Local Holiday,2020
+2020-03-08,Nari Dibas,Public Holiday,2020
+2020-03-09,Holi Purnima (Hill region),Local Holiday,2020
+2020-03-10,Holi Purnima (Terai region),Local Holiday,2020
+2020-03-14,Saturday,Local Holiday,2020
+2020-03-15,Sunday,Local Holiday Optional,2020
+2020-03-20,March Equinox,Season,2020
+2020-03-21,Saturday,Local Holiday,2020
+2020-03-22,Sunday,Local Holiday Optional,2020
+2020-03-24,Godhe Yatra,Local Holiday,2020
+2020-03-28,Saturday,Local Holiday,2020
+2020-03-29,Sunday,Local Holiday Optional,2020
+2020-04-02,Ram Nawami,Public Holiday,2020
+2020-04-04,Saturday,Local Holiday,2020
+2020-04-05,Sunday,Local Holiday Optional,2020
+2020-04-11,Saturday,Local Holiday,2020
+2020-04-12,Sunday,Local Holiday Optional,2020
+2020-04-13,Nepali New Year,Public Holiday,2020
+2020-04-18,Saturday,Local Holiday,2020
+2020-04-19,Sunday,Local Holiday Optional,2020
+2020-04-23,Loktantra Diwas,Observance,2020
+2020-04-25,Saturday,Local Holiday,2020
+2020-04-26,Sunday,Local Holiday Optional,2020
+2020-05-01,Majdoor Divas,Public Holiday,2020
+2020-05-02,Saturday,Local Holiday,2020
+2020-05-03,Sunday,Local Holiday Optional,2020
+2020-05-07,Ubhauli Parva,Optional Holiday,2020
+2020-05-07,Buddha Jayanti,Public Holiday,2020
+2020-05-09,Saturday,Local Holiday,2020
+2020-05-10,Sunday,Local Holiday Optional,2020
+2020-05-16,Saturday,Local Holiday,2020
+2020-05-17,Sunday,Local Holiday Optional,2020
+2020-05-23,Saturday,Local Holiday,2020
+2020-05-24,Sunday,Local Holiday Optional,2020
+2020-05-25,Ramjan Edul Fikra,Optional Holiday,2020
+2020-05-28,Ganatantra Diwas (Republic Day),Observance,2020
+2020-05-30,Saturday,Local Holiday,2020
+2020-05-31,Sunday,Local Holiday Optional,2020
+2020-06-06,Saturday,Local Holiday,2020
+2020-06-07,Sunday,Local Holiday Optional,2020
+2020-06-13,Saturday,Local Holiday,2020
+2020-06-14,Sunday,Local Holiday Optional,2020
+2020-06-20,Saturday,Local Holiday,2020
+2020-06-21,June Solstice,Season,2020
+2020-06-27,Saturday,Local Holiday,2020
+2020-06-28,Sunday,Local Holiday Optional,2020
+2020-07-04,Saturday,Local Holiday,2020
+2020-07-05,Sunday,Local Holiday Optional,2020
+2020-07-11,Saturday,Local Holiday,2020
+2020-07-12,Sunday,Local Holiday Optional,2020
+2020-07-18,Saturday,Local Holiday,2020
+2020-07-19,Sunday,Local Holiday Optional,2020
+2020-07-25,Saturday,Local Holiday,2020
+2020-07-26,Sunday,Local Holiday Optional,2020
+2020-08-01,Edul Aajaha,Optional Holiday,2020
+2020-08-02,Sunday,Local Holiday Optional,2020
+2020-08-03,Janai Purnima,Public Holiday,2020
+2020-08-08,Saturday,Local Holiday,2020
+2020-08-09,Sunday,Local Holiday Optional,2020
+2020-08-11,Gai Jatra,Local Holiday,2020
+2020-08-11,Shree Krishna Janamashtami,Public Holiday,2020
+2020-08-15,Saturday,Local Holiday,2020
+2020-08-16,Sunday,Local Holiday Optional,2020
+2020-08-21,Hartalika Teej,Optional Holiday,2020
+2020-08-22,Saturday,Local Holiday,2020
+2020-08-23,Rishi Panchami,Public Holiday,2020
+2020-08-26,Gaura Parba,Optional Holiday,2020
+2020-08-29,Saturday,Local Holiday,2020
+2020-08-30,Sunday,Local Holiday Optional,2020
+2020-09-01,Indra Jatra,Local Holiday,2020
+2020-09-05,Saturday,Local Holiday,2020
+2020-09-06,Sunday,Local Holiday Optional,2020
+2020-09-07,Civil Service Day,Public Holiday,2020
+2020-09-10,Jitiya Parwa,Optional Holiday,2020
+2020-09-12,Saturday,Local Holiday,2020
+2020-09-13,Sunday,Local Holiday Optional,2020
+2020-09-19,Constitution Day,Public Holiday,2020
+2020-09-20,Sunday,Local Holiday Optional,2020
+2020-09-22,September Equinox,Season,2020
+2020-09-26,Saturday,Local Holiday,2020
+2020-09-27,Sunday,Local Holiday Optional,2020
+2020-10-03,Saturday,Local Holiday,2020
+2020-10-04,Sunday,Local Holiday Optional,2020
+2020-10-10,Saturday,Local Holiday,2020
+2020-10-11,Sunday,Local Holiday Optional,2020
+2020-10-17,Ghatasthapana,Observance,2020
+2020-10-18,Sunday,Local Holiday Optional,2020
+2020-10-23,Phulpati (Dashain),Public Holiday,2020
+2020-10-24,Astami (Dashain),Public Holiday,2020
+2020-10-25,Nawami (Dashain),Public Holiday,2020
+2020-10-26,Dashami (Dashain),Public Holiday,2020
+2020-10-27,Ekadashi (Dashain),Public Holiday,2020
+2020-10-28,Duwadashi (Dashain),Public Holiday,2020
+2020-10-30,Kojagrat Purnima,Public Holiday,2020
+2020-10-31,Saturday,Local Holiday,2020
+2020-11-01,Sunday,Local Holiday Optional,2020
+2020-11-07,Saturday,Local Holiday,2020
+2020-11-08,Sunday,Local Holiday Optional,2020
+2020-11-11,Phalgunanda Jayanti,Optional Holiday,2020
+2020-11-14,Saturday,Local Holiday,2020
+2020-11-15,Laxmi Puja (Tihar),Public Holiday,2020
+2020-11-16,Gobhardan Pujan (Tihar),Public Holiday,2020
+2020-11-17,Bhai Tika (Tihar),Public Holiday,2020
+2020-11-20,Chhat Parwa,Optional Holiday,2020
+2020-11-21,Saturday,Local Holiday,2020
+2020-11-22,Sunday,Local Holiday Optional,2020
+2020-11-28,Saturday,Local Holiday,2020
+2020-11-29,Sunday,Local Holiday Optional,2020
+2020-11-30,Guru Nanak Jayanti,Optional Holiday,2020
+2020-12-03,International Day of Disabled Persons,Optional Holiday,2020
+2020-12-05,Saturday,Local Holiday,2020
+2020-12-06,Sunday,Local Holiday Optional,2020
+2020-12-12,Saturday,Local Holiday,2020
+2020-12-13,Sunday,Local Holiday Optional,2020
+2020-12-19,Saturday,Local Holiday,2020
+2020-12-20,Sunday,Local Holiday Optional,2020
+2020-12-21,December Solstice,Season,2020
+2020-12-25,Christmas Day,Optional Holiday,2020
+2020-12-26,Saturday,Local Holiday,2020
+2020-12-27,Sunday,Local Holiday Optional,2020
+2020-12-29,Udhauli Parva,Optional Holiday,2020
+2020-12-30,Tamu Lhosar,Optional Holiday,2020
+2021-01-02,Saturday,Local Holiday,2021
+2021-01-03,Sunday,Local Holiday Optional,2021
+2021-01-09,Saturday,Local Holiday,2021
+2021-01-10,Sunday,Local Holiday Optional,2021
+2021-01-14,Maghe Sankranti,Public Holiday,2021
+2021-01-16,Saturday,Local Holiday,2021
+2021-01-17,Sunday,Local Holiday Optional,2021
+2021-01-23,Saturday,Local Holiday,2021
+2021-01-24,Sunday,Local Holiday Optional,2021
+2021-01-30,Saturday,Local Holiday,2021
+2021-01-31,Sunday,Local Holiday Optional,2021
+2021-02-06,Saturday,Local Holiday,2021
+2021-02-07,Sunday,Local Holiday Optional,2021
+2021-02-12,Sonam Losar (Tamang New Year),Optional Holiday,2021
+2021-02-13,Saturday,Local Holiday,2021
+2021-02-14,Sunday,Local Holiday Optional,2021
+2021-02-16,Basant Panchami,Academic Holiday,2021
+2021-02-19,National Democracy Day,Observance,2021
+2021-02-20,Saturday,Local Holiday,2021
+2021-02-21,Sunday,Local Holiday Optional,2021
+2021-02-27,Saturday,Local Holiday,2021
+2021-02-28,Sunday,Local Holiday Optional,2021
+2021-03-06,Saturday,Local Holiday,2021
+2021-03-07,Sunday,Local Holiday Optional,2021
+2021-03-08,Nari Dibas,Public Holiday,2021
+2021-03-11,Maha Shivaratri,Public Holiday,2021
+2021-03-13,Saturday,Local Holiday,2021
+2021-03-14,Gyalpo Losar,Optional Holiday,2021
+2021-03-20,March Equinox,Season,2021
+2021-03-21,Sunday,Local Holiday Optional,2021
+2021-03-27,Saturday,Local Holiday,2021
+2021-03-28,Holi Purnima (Hill region),Local Holiday,2021
+2021-03-29,Holi Purnima (Terai region),Local Holiday,2021
+2021-04-03,Saturday,Local Holiday,2021
+2021-04-04,Sunday,Local Holiday Optional,2021
+2021-04-10,Saturday,Local Holiday,2021
+2021-04-11,Godhe Yatra,Local Holiday,2021
+2021-04-14,Nepali New Year,Public Holiday,2021
+2021-04-17,Saturday,Local Holiday,2021
+2021-04-18,Sunday,Local Holiday Optional,2021
+2021-04-24,Loktantra Diwas,Observance,2021
+2021-04-25,Sunday,Local Holiday Optional,2021
+2021-05-01,Majdoor Divas,Public Holiday,2021
+2021-05-02,Sunday,Local Holiday Optional,2021
+2021-05-08,Saturday,Local Holiday,2021
+2021-05-09,Sunday,Local Holiday Optional,2021
+2021-05-14,Ramjan Edul Fikra,Optional Holiday,2021
+2021-05-15,Saturday,Local Holiday,2021
+2021-05-16,Sunday,Local Holiday Optional,2021
+2021-05-22,Saturday,Local Holiday,2021
+2021-05-23,Sunday,Local Holiday Optional,2021
+2021-05-26,Buddha Jayanti,Public Holiday,2021
+2021-05-26,Ubhauli Parva,Optional Holiday,2021
+2021-05-29,Ganatantra Diwas (Republic Day),Public Holiday,2021
+2021-05-30,Sunday,Local Holiday Optional,2021
+2021-06-05,Saturday,Local Holiday,2021
+2021-06-06,Sunday,Local Holiday Optional,2021
+2021-06-12,Saturday,Local Holiday,2021
+2021-06-13,Sunday,Local Holiday Optional,2021
+2021-06-19,Saturday,Local Holiday,2021
+2021-06-20,Sunday,Local Holiday Optional,2021
+2021-06-21,June Solstice,Season,2021
+2021-06-26,Saturday,Local Holiday,2021
+2021-06-27,Sunday,Local Holiday Optional,2021
+2021-07-03,Saturday,Local Holiday,2021
+2021-07-04,Sunday,Local Holiday Optional,2021
+2021-07-10,Saturday,Local Holiday,2021
+2021-07-11,Sunday,Local Holiday Optional,2021
+2021-07-17,Saturday,Local Holiday,2021
+2021-07-18,Sunday,Local Holiday Optional,2021
+2021-07-21,Edul Aajaha,Optional Holiday,2021
+2021-07-24,Saturday,Local Holiday,2021
+2021-07-25,Sunday,Local Holiday Optional,2021
+2021-07-31,Saturday,Local Holiday,2021
+2021-08-01,Sunday,Local Holiday Optional,2021
+2021-08-07,Saturday,Local Holiday,2021
+2021-08-08,Sunday,Local Holiday Optional,2021
+2021-08-14,Saturday,Local Holiday,2021
+2021-08-15,Sunday,Local Holiday Optional,2021
+2021-08-21,Saturday,Local Holiday,2021
+2021-08-22,Janai Purnima,Public Holiday,2021
+2021-08-23,Gai Jatra,Local Holiday,2021
+2021-08-28,Saturday,Local Holiday,2021
+2021-08-29,Sunday,Local Holiday Optional,2021
+2021-08-30,Shree Krishna Janamashtami,Public Holiday,2021
+2021-08-30,Gaura Parba,Optional Holiday,2021
+2021-09-04,Saturday,Local Holiday,2021
+2021-09-05,Sunday,Local Holiday Optional,2021
+2021-09-09,Hartalika Teej,Optional Holiday,2021
+2021-09-11,Saturday,Local Holiday,2021
+2021-09-12,Sunday,Local Holiday Optional,2021
+2021-09-18,Saturday,Local Holiday,2021
+2021-09-19,Indra Jatra,Local Holiday,2021
+2021-09-19,Constitution Day,Public Holiday,2021
+2021-09-23,September Equinox,Season,2021
+2021-09-25,Saturday,Local Holiday,2021
+2021-09-26,Sunday,Local Holiday Optional,2021
+2021-09-29,Jitiya Parwa,Optional Holiday,2021
+2021-10-02,Saturday,Local Holiday,2021
+2021-10-03,Sunday,Local Holiday Optional,2021
+2021-10-07,Ghatasthapana,Public Holiday,2021
+2021-10-09,Saturday,Local Holiday,2021
+2021-10-10,Sunday,Local Holiday Optional,2021
+2021-10-12,Phulpati (Dashain),Public Holiday,2021
+2021-10-13,Astami (Dashain),Public Holiday,2021
+2021-10-14,Nawami (Dashain),Public Holiday,2021
+2021-10-15,Dashami (Dashain),Public Holiday,2021
+2021-10-16,Ekadashi (Dashain),Public Holiday,2021
+2021-10-17,Duwadashi (Dashain),Observance,2021
+2021-10-23,Saturday,Local Holiday,2021
+2021-10-24,Sunday,Local Holiday Optional,2021
+2021-10-30,Saturday,Local Holiday,2021
+2021-10-31,Sunday,Local Holiday Optional,2021
+2021-11-04,Laxmi Puja (Tihar),Public Holiday,2021
+2021-11-05,Gobhardan Pujan (Tihar),Public Holiday,2021
+2021-11-06,Bhai Tika (Tihar),Public Holiday,2021
+2021-11-07,Sunday,Local Holiday Optional,2021
+2021-11-10,Chhat Parwa,Public Holiday,2021
+2021-11-11,Phalgunanda Jayanti,Optional Holiday,2021
+2021-11-13,Saturday,Local Holiday,2021
+2021-11-14,Sunday,Local Holiday Optional,2021
+2021-11-19,Guru Nanak Jayanti,Optional Holiday,2021
+2021-11-20,Saturday,Local Holiday,2021
+2021-11-21,Sunday,Local Holiday Optional,2021
+2021-11-27,Saturday,Local Holiday,2021
+2021-11-28,Sunday,Local Holiday Optional,2021
+2021-12-03,International Day of Disabled Persons,Optional Holiday,2021
+2021-12-04,Saturday,Local Holiday,2021
+2021-12-05,Sunday,Local Holiday Optional,2021
+2021-12-11,Saturday,Local Holiday,2021
+2021-12-12,Sunday,Local Holiday Optional,2021
+2021-12-18,Saturday,Local Holiday,2021
+2021-12-19,Udhauli Parva,Optional Holiday,2021
+2021-12-21,December Solstice,Season,2021
+2021-12-25,Christmas Day,Public Holiday,2021
+2021-12-26,Sunday,Local Holiday Optional,2021
+2021-12-29,Tamu Lhosar Holiday,Public Holiday,2021
+2021-12-30,Tamu Lhosar,Optional Holiday,2021
+2022-01-01,Saturday,Local Holiday,2022
+2022-01-02,Sunday,Local Holiday Optional,2022
+2022-01-08,Saturday,Local Holiday,2022
+2022-01-09,Sunday,Local Holiday Optional,2022
+2022-01-15,Maghe Sankranti,Public Holiday,2022
+2022-01-16,Sunday,Local Holiday Optional,2022
+2022-01-22,Saturday,Local Holiday,2022
+2022-01-23,Sunday,Local Holiday Optional,2022
+2022-01-29,Saturday,Local Holiday,2022
+2022-01-30,Sunday,Local Holiday Optional,2022
+2022-02-02,Sonam Losar (Tamang New Year),Optional Holiday,2022
+2022-02-05,Saturday,Local Holiday,2022
+2022-02-06,Basant Panchami,Academic Holiday,2022
+2022-02-12,Saturday,Local Holiday,2022
+2022-02-13,Sunday,Local Holiday Optional,2022
+2022-02-19,National Democracy Day,Public Holiday,2022
+2022-02-20,Sunday,Local Holiday Optional,2022
+2022-02-26,Saturday,Local Holiday,2022
+2022-02-27,Sunday,Local Holiday Optional,2022
+2022-03-01,Maha Shivaratri,Public Holiday,2022
+2022-03-03,Gyalpo Losar,Public Holiday,2022
+2022-03-05,Saturday,Local Holiday,2022
+2022-03-06,Sunday,Local Holiday Optional,2022
+2022-03-08,Nari Dibas,Public Holiday,2022
+2022-03-12,Saturday,Local Holiday,2022
+2022-03-13,Sunday,Local Holiday Optional,2022
+2022-03-17,Holi Purnima (Hill region),Local Holiday,2022
+2022-03-18,Holi Purnima (Terai region),Local Holiday,2022
+2022-03-19,Saturday,Local Holiday,2022
+2022-03-20,March Equinox,Season,2022
+2022-03-26,Saturday,Local Holiday,2022
+2022-03-27,Sunday,Local Holiday Optional,2022
+2022-04-01,Godhe Yatra,Local Holiday,2022
+2022-04-02,Saturday,Local Holiday,2022
+2022-04-03,Sunday,Local Holiday Optional,2022
+2022-04-09,Saturday,Local Holiday,2022
+2022-04-10,Ram Nawami,Public Holiday,2022
+2022-04-14,Nepali New Year,Public Holiday,2022
+2022-04-16,Saturday,Local Holiday,2022
+2022-04-17,Sunday,Local Holiday Optional,2022
+2022-04-23,Saturday,Local Holiday,2022
+2022-04-24,Sunday,Local Holiday Optional,2022
+2022-04-30,Saturday,Local Holiday,2022
+2022-05-01,Majdoor Divas,Public Holiday,2022
+2022-05-03,Ramjan Edul Fikra,Optional Holiday,2022
+2022-05-07,Saturday,Local Holiday,2022
+2022-05-08,Sunday,Local Holiday Optional,2022
+2022-05-13,Election Day,Public Holiday,2022
+2022-05-14,Saturday,Local Holiday,2022
+2022-05-15,Sunday,Local Holiday Optional,2022
+2022-05-16,Buddha Jayanti,Public Holiday,2022
+2022-05-16,Ubhauli Parva,Optional Holiday,2022
+2022-05-21,Saturday,Local Holiday,2022
+2022-05-22,Sunday,Local Holiday Optional,2022
+2022-05-28,Saturday,Local Holiday,2022
+2022-05-29,Ganatantra Diwas (Republic Day),Public Holiday,2022
+2022-06-04,Saturday,Local Holiday,2022
+2022-06-05,Sunday,Local Holiday Optional,2022
+2022-06-11,Saturday,Local Holiday,2022
+2022-06-12,Sunday,Local Holiday Optional,2022
+2022-06-18,Saturday,Local Holiday,2022
+2022-06-19,Sunday,Local Holiday Optional,2022
+2022-06-21,June Solstice,Season,2022
+2022-06-25,Saturday,Local Holiday,2022
+2022-06-26,Sunday,Local Holiday Optional,2022
+2022-07-02,Saturday,Local Holiday,2022
+2022-07-03,Sunday,Local Holiday Optional,2022
+2022-07-09,Saturday,Local Holiday,2022
+2022-07-10,Edul Aajaha,Public Holiday,2022
+2022-07-16,Saturday,Local Holiday,2022
+2022-07-17,Sunday,Local Holiday Optional,2022
+2022-07-23,Saturday,Local Holiday,2022
+2022-07-24,Sunday,Local Holiday Optional,2022
+2022-07-30,Saturday,Local Holiday,2022
+2022-07-31,Sunday,Local Holiday Optional,2022
+2022-08-06,Saturday,Local Holiday,2022
+2022-08-07,Sunday,Local Holiday Optional,2022
+2022-08-12,Janai Purnima,Public Holiday,2022
+2022-08-12,Gai Jatra,Local Holiday,2022
+2022-08-13,Saturday,Local Holiday,2022
+2022-08-14,Sunday,Local Holiday Optional,2022
+2022-08-19,Shree Krishna Janamashtami,Public Holiday,2022
+2022-08-20,Saturday,Local Holiday,2022
+2022-08-21,Sunday,Local Holiday Optional,2022
+2022-08-27,Saturday,Local Holiday,2022
+2022-08-28,Sunday,Local Holiday Optional,2022
+2022-08-30,Hartalika Teej,Optional Holiday,2022
+2022-09-03,Gaura Parba,Optional Holiday,2022
+2022-09-04,Sunday,Local Holiday Optional,2022
+2022-09-09,Indra Jatra,Local Holiday,2022
+2022-09-10,Saturday,Local Holiday,2022
+2022-09-11,Sunday,Local Holiday Optional,2022
+2022-09-17,Saturday,Local Holiday,2022
+2022-09-18,Jitiya Parwa,Optional Holiday,2022
+2022-09-19,Constitution Day,Public Holiday,2022
+2022-09-23,September Equinox,Season,2022
+2022-09-24,Saturday,Local Holiday,2022
+2022-09-25,Sunday,Local Holiday Optional,2022
+2022-09-26,Ghatasthapana,Public Holiday,2022
+2022-10-01,Saturday,Local Holiday,2022
+2022-10-02,Phulpati (Dashain),Public Holiday,2022
+2022-10-03,Astami (Dashain),Public Holiday,2022
+2022-10-04,Nawami (Dashain),Public Holiday,2022
+2022-10-05,Dashami (Dashain),Public Holiday,2022
+2022-10-06,Ekadashi (Dashain),Public Holiday,2022
+2022-10-07,Duwadashi (Dashain),Public Holiday,2022
+2022-10-08,Saturday,Local Holiday,2022
+2022-10-09,Sunday,Local Holiday Optional,2022
+2022-10-15,Saturday,Local Holiday,2022
+2022-10-16,Sunday,Local Holiday Optional,2022
+2022-10-18,National Mourning Day,Public Holiday,2022
+2022-10-22,Saturday,Local Holiday,2022
+2022-10-23,Sunday,Local Holiday Optional,2022
+2022-10-24,Laxmi Puja (Tihar),Public Holiday,2022
+2022-10-25,Gai Tihar,Public Holiday,2022
+2022-10-26,Gobhardan Pujan (Tihar),Public Holiday,2022
+2022-10-27,Bhai Tika (Tihar),Public Holiday,2022
+2022-10-29,Saturday,Local Holiday,2022
+2022-10-30,Chhat Parwa,Public Holiday,2022
+2022-11-05,Saturday,Local Holiday,2022
+2022-11-06,Sunday,Local Holiday Optional,2022
+2022-11-08,Guru Nanak Jayanti,Optional Holiday,2022
+2022-11-11,Phalgunanda Jayanti,Optional Holiday,2022
+2022-11-12,Saturday,Local Holiday,2022
+2022-11-13,Sunday,Local Holiday Optional,2022
+2022-11-19,Saturday,Local Holiday,2022
+2022-11-20,General Election Day,Public Holiday,2022
+2022-11-21,General Election Holiday,Public Holiday,2022
+2022-11-26,Saturday,Local Holiday,2022
+2022-11-27,Sunday,Local Holiday Optional,2022
+2022-12-03,International Day of Disabled Persons,Optional Holiday,2022
+2022-12-04,Sunday,Local Holiday Optional,2022
+2022-12-08,Udhauli Parva,Optional Holiday,2022
+2022-12-10,Saturday,Local Holiday,2022
+2022-12-11,Sunday,Local Holiday Optional,2022
+2022-12-17,Saturday,Local Holiday,2022
+2022-12-18,Sunday,Local Holiday Optional,2022
+2022-12-22,December Solstice,Season,2022
+2022-12-24,Saturday,Local Holiday,2022
+2022-12-25,Christmas Day,Optional Holiday,2022
+2022-12-30,Tamu Lhosar,Optional Holiday,2022
+2022-12-31,Saturday,Local Holiday,2022
+2023-01-01,Sunday,Local Holiday Optional,2023
+2023-01-07,Saturday,Local Holiday,2023
+2023-01-08,Sunday,Local Holiday Optional,2023
+2023-01-11,Prithvi Jayanti,Public Holiday,2023
+2023-01-14,Saturday,Local Holiday,2023
+2023-01-15,Maghe Sankranti,Public Holiday,2023
+2023-01-16,National Day of Mourning,Public Holiday,2023
+2023-01-21,Saturday,Local Holiday,2023
+2023-01-22,Sonam Losar (Tamang New Year),Optional Holiday,2023
+2023-01-26,Basant Panchami,Academic Holiday,2023
+2023-01-28,Saturday,Local Holiday,2023
+2023-01-29,Sunday,Local Holiday Optional,2023
+2023-02-04,Saturday,Local Holiday,2023
+2023-02-05,Sunday,Local Holiday Optional,2023
+2023-02-11,Saturday,Local Holiday,2023
+2023-02-12,Sunday,Local Holiday Optional,2023
+2023-02-13,People's War Day,Public Holiday,2023
+2023-02-18,Maha Shivaratri,Public Holiday,2023
+2023-02-19,National Democracy Day,Public Holiday,2023
+2023-02-21,Gyalpo Losar,Optional Holiday,2023
+2023-02-25,Saturday,Local Holiday,2023
+2023-02-26,Sunday,Local Holiday Optional,2023
+2023-03-04,Saturday,Local Holiday,2023
+2023-03-05,Sunday,Local Holiday Optional,2023
+2023-03-06,Holi Purnima (Hill region),Local Holiday,2023
+2023-03-07,Holi Purnima (Terai region),Local Holiday,2023
+2023-03-08,Nari Dibas,Public Holiday,2023
+2023-03-11,Saturday,Local Holiday,2023
+2023-03-12,Sunday,Local Holiday Optional,2023
+2023-03-18,Saturday,Local Holiday,2023
+2023-03-19,Sunday,Local Holiday Optional,2023
+2023-03-21,Godhe Yatra,Local Holiday,2023
+2023-03-21,March Equinox,Season,2023
+2023-03-25,Saturday,Local Holiday,2023
+2023-03-26,Sunday,Local Holiday Optional,2023
+2023-03-30,Ram Nawami,Observance,2023
+2023-04-01,Saturday,Local Holiday,2023
+2023-04-02,Sunday,Local Holiday Optional,2023
+2023-04-08,Saturday,Local Holiday,2023
+2023-04-09,Sunday,Local Holiday Optional,2023
+2023-04-14,Nepali New Year,Public Holiday,2023
+2023-04-15,Saturday,Local Holiday,2023
+2023-04-16,Sunday,Local Holiday Optional,2023
+2023-04-22,Ramjan Edul Fikra,Optional Holiday,2023
+2023-04-23,Sunday,Local Holiday Optional,2023
+2023-04-29,Saturday,Local Holiday,2023
+2023-04-30,Sunday,Local Holiday Optional,2023
+2023-05-01,Majdoor Divas,Public Holiday,2023
+2023-05-05,Ubhauli Parva,Optional Holiday,2023
+2023-05-05,Buddha Jayanti,Public Holiday,2023
+2023-05-06,Saturday,Local Holiday,2023
+2023-05-07,Sunday,Local Holiday Optional,2023
+2023-05-13,Saturday,Local Holiday,2023
+2023-05-14,Sunday,Local Holiday Optional,2023
+2023-05-20,Saturday,Local Holiday,2023
+2023-05-21,Sunday,Local Holiday Optional,2023
+2023-05-27,Saturday,Local Holiday,2023
+2023-05-28,Sunday,Local Holiday Optional,2023
+2023-05-29,Ganatantra Diwas (Republic Day),Public Holiday,2023
+2023-06-03,Saturday,Local Holiday,2023
+2023-06-04,Sunday,Local Holiday Optional,2023
+2023-06-10,Saturday,Local Holiday,2023
+2023-06-11,Sunday,Local Holiday Optional,2023
+2023-06-17,Saturday,Local Holiday,2023
+2023-06-18,Sunday,Local Holiday Optional,2023
+2023-06-21,June Solstice,Season,2023
+2023-06-24,Saturday,Local Holiday,2023
+2023-06-25,Sunday,Local Holiday Optional,2023
+2023-06-29,Edul Aajaha,Optional Holiday,2023
+2023-07-01,Saturday,Local Holiday,2023
+2023-07-02,Sunday,Local Holiday Optional,2023
+2023-07-08,Saturday,Local Holiday,2023
+2023-07-09,Sunday,Local Holiday Optional,2023
+2023-07-15,Saturday,Local Holiday,2023
+2023-07-16,Sunday,Local Holiday Optional,2023
+2023-07-22,Saturday,Local Holiday,2023
+2023-07-23,Sunday,Local Holiday Optional,2023
+2023-07-29,Saturday,Local Holiday,2023
+2023-07-30,Sunday,Local Holiday Optional,2023
+2023-08-05,Saturday,Local Holiday,2023
+2023-08-06,Sunday,Local Holiday Optional,2023
+2023-08-12,Saturday,Local Holiday,2023
+2023-08-13,Sunday,Local Holiday Optional,2023
+2023-08-19,Saturday,Local Holiday,2023
+2023-08-20,Sunday,Local Holiday Optional,2023
+2023-08-26,Saturday,Local Holiday,2023
+2023-08-27,Sunday,Local Holiday Optional,2023
+2023-08-30,Janai Purnima,Public Holiday,2023
+2023-09-01,Gai Jatra,Local Holiday,2023
+2023-09-02,Saturday,Local Holiday,2023
+2023-09-03,Sunday,Local Holiday Optional,2023
+2023-09-06,Gaura Parba,Optional Holiday,2023
+2023-09-06,Shree Krishna Janamashtami,Public Holiday,2023
+2023-09-09,Saturday,Local Holiday,2023
+2023-09-10,Sunday,Local Holiday Optional,2023
+2023-09-14,National Mourning Day,Public Holiday,2023
+2023-09-16,Saturday,Local Holiday,2023
+2023-09-17,Sunday,Local Holiday Optional,2023
+2023-09-18,Hartalika Teej,Optional Holiday,2023
+2023-09-19,Constitution Day,Public Holiday,2023
+2023-09-23,September Equinox,Season,2023
+2023-09-24,Sunday,Local Holiday Optional,2023
+2023-09-28,Indra Jatra,Local Holiday,2023
+2023-09-30,Saturday,Local Holiday,2023
+2023-10-01,Sunday,Local Holiday Optional,2023
+2023-10-07,Jitiya Parwa,Optional Holiday,2023
+2023-10-08,Sunday,Local Holiday Optional,2023
+2023-10-14,Saturday,Local Holiday,2023
+2023-10-15,Ghatasthapana,Public Holiday,2023
+2023-10-21,Phulpati (Dashain),Public Holiday,2023
+2023-10-22,Astami (Dashain),Public Holiday,2023
+2023-10-23,Nawami (Dashain),Public Holiday,2023
+2023-10-24,Dashami (Dashain),Public Holiday,2023
+2023-10-25,Ekadashi (Dashain),Public Holiday,2023
+2023-10-28,Saturday,Local Holiday,2023
+2023-10-29,Sunday,Local Holiday Optional,2023
+2023-11-04,Saturday,Local Holiday,2023
+2023-11-05,Sunday,Local Holiday Optional,2023
+2023-11-11,Phalgunanda Jayanti,Optional Holiday,2023
+2023-11-12,Laxmi Puja (Tihar),Public Holiday,2023
+2023-11-14,Gobhardan Pujan (Tihar),Public Holiday,2023
+2023-11-15,Bhai Tika (Tihar),Public Holiday,2023
+2023-11-18,Saturday,Local Holiday,2023
+2023-11-19,Chhat Parwa,Public Holiday,2023
+2023-11-25,Saturday,Local Holiday,2023
+2023-11-26,Sunday,Local Holiday Optional,2023
+2023-11-27,Guru Nanak Jayanti,Optional Holiday,2023
+2023-12-02,Saturday,Local Holiday,2023
+2023-12-03,International Day of Disabled Persons,Optional Holiday,2023
+2023-12-09,Saturday,Local Holiday,2023
+2023-12-10,Sunday,Local Holiday Optional,2023
+2023-12-16,Saturday,Local Holiday,2023
+2023-12-17,Sunday,Local Holiday Optional,2023
+2023-12-22,December Solstice,Season,2023
+2023-12-23,Saturday,Local Holiday,2023
+2023-12-24,Sunday,Local Holiday Optional,2023
+2023-12-25,Christmas Day,Optional Holiday,2023
+2023-12-26,Udhauli Parva,Optional Holiday,2023
+2023-12-30,Tamu Lhosar,Optional Holiday,2023
+2023-12-31,Sunday,Local Holiday Optional,2023
+2024-01-06,Saturday,Local Holiday,2024
+2024-01-07,Sunday,Local Holiday Optional,2024
+2024-01-12,Prithvi Jayanti,Public Holiday,2024
+2024-01-13,Saturday,Local Holiday,2024
+2024-01-14,Sunday,Local Holiday Optional,2024
+2024-01-15,Maghe Sankranti,Public Holiday,2024
+2024-01-20,Saturday,Local Holiday,2024
+2024-01-21,Sunday,Local Holiday Optional,2024
+2024-01-27,Saturday,Local Holiday,2024
+2024-01-28,Sunday,Local Holiday Optional,2024
+2024-02-03,Saturday,Local Holiday,2024
+2024-02-04,Sunday,Local Holiday Optional,2024
+2024-02-10,Sonam Losar (Tamang New Year),Optional Holiday,2024
+2024-02-11,Sunday,Local Holiday Optional,2024
+2024-02-17,Saturday,Local Holiday,2024
+2024-02-18,Sunday,Local Holiday Optional,2024
+2024-02-19,National Democracy Day,Public Holiday,2024
+2024-02-24,Saturday,Local Holiday,2024
+2024-02-25,Sunday,Local Holiday Optional,2024
+2024-03-02,Saturday,Local Holiday,2024
+2024-03-03,Sunday,Local Holiday Optional,2024
+2024-03-08,Nari Dibas,Public Holiday,2024
+2024-03-08,Maha Shivaratri,Public Holiday,2024
+2024-03-09,Saturday,Local Holiday,2024
+2024-03-10,Sunday,Local Holiday Optional,2024
+2024-03-11,Gyalpo Losar,Optional Holiday,2024
+2024-03-12,Ramadan Start,Observance,2024
+2024-03-16,Saturday,Local Holiday,2024
+2024-03-17,Sunday,Local Holiday Optional,2024
+2024-03-20,March Equinox,Season,2024
+2024-03-23,Saturday,Local Holiday,2024
+2024-03-24,Holi Purnima (Hill region),Local Holiday,2024
+2024-03-25,Holi Purnima (Terai region),Local Holiday,2024
+2024-03-30,Saturday,Local Holiday,2024
+2024-03-31,Sunday,Local Holiday Optional,2024
+2024-04-06,Saturday,Local Holiday,2024
+2024-04-07,Sunday,Local Holiday Optional,2024
+2024-04-08,Godhe Yatra,Local Holiday,2024
+2024-04-11,Ramjan Edul Fikra,Optional Holiday,2024
+2024-04-13,Nepali New Year,Public Holiday,2024
+2024-04-14,Sunday,Local Holiday Optional,2024
+2024-04-17,Ram Nawami,Public Holiday,2024
+2024-04-20,Saturday,Local Holiday,2024
+2024-04-21,Sunday,Local Holiday Optional,2024
+2024-04-23,Holiday for Emir of Qatar's Visit,Public Holiday,2024
+2024-04-27,Saturday,Local Holiday,2024
+2024-04-28,Sunday,Local Holiday Optional,2024
+2024-05-01,Majdoor Divas,Public Holiday,2024
+2024-05-04,Saturday,Local Holiday,2024
+2024-05-05,Sunday,Local Holiday Optional,2024
+2024-05-11,Saturday,Local Holiday,2024
+2024-05-12,Sunday,Local Holiday Optional,2024
+2024-05-18,Saturday,Local Holiday,2024
+2024-05-19,Sunday,Local Holiday Optional,2024
+2024-05-23,Ubhauli Parva,Optional Holiday,2024
+2024-05-23,Buddha Jayanti,Public Holiday,2024
+2024-05-25,Saturday,Local Holiday,2024
+2024-05-26,Sunday,Local Holiday Optional,2024
+2024-05-28,Ganatantra Diwas (Republic Day),Public Holiday,2024
+2024-06-01,Saturday,Local Holiday,2024
+2024-06-02,Sunday,Local Holiday Optional,2024
+2024-06-08,Saturday,Local Holiday,2024
+2024-06-09,Sunday,Local Holiday Optional,2024
+2024-06-15,Saturday,Local Holiday,2024
+2024-06-16,Sunday,Local Holiday Optional,2024
+2024-06-17,Edul Aajaha (Tentative Date),Optional Holiday,2024
+2024-06-21,June Solstice,Season,2024
+2024-06-22,Saturday,Local Holiday,2024
+2024-06-23,Sunday,Local Holiday Optional,2024
+2024-06-29,Saturday,Local Holiday,2024
+2024-06-30,Sunday,Local Holiday Optional,2024
+2024-07-06,Saturday,Local Holiday,2024
+2024-07-07,Sunday,Local Holiday Optional,2024
+2024-07-13,Saturday,Local Holiday,2024
+2024-07-14,Sunday,Local Holiday Optional,2024
+2024-07-20,Saturday,Local Holiday,2024
+2024-07-21,Sunday,Local Holiday Optional,2024
+2024-07-27,Saturday,Local Holiday,2024
+2024-07-28,Sunday,Local Holiday Optional,2024
+2024-08-03,Saturday,Local Holiday,2024
+2024-08-04,Sunday,Local Holiday Optional,2024
+2024-08-10,Saturday,Local Holiday,2024
+2024-08-11,Sunday,Local Holiday Optional,2024
+2024-08-17,Saturday,Local Holiday,2024
+2024-08-18,Sunday,Local Holiday Optional,2024
+2024-08-19,Janai Purnima,Public Holiday,2024
+2024-08-20,Gai Jatra,Local Holiday,2024
+2024-08-24,Saturday,Local Holiday,2024
+2024-08-25,Sunday,Local Holiday Optional,2024
+2024-08-26,Gaura Parba,Optional Holiday,2024
+2024-08-26,Shree Krishna Janamashtami,Public Holiday,2024
+2024-08-31,Saturday,Local Holiday,2024
+2024-09-01,Sunday,Local Holiday Optional,2024
+2024-09-06,Hartalika Teej,Optional Holiday,2024
+2024-09-07,Saturday,Local Holiday,2024
+2024-09-08,Sunday,Local Holiday Optional,2024
+2024-09-14,Saturday,Local Holiday,2024
+2024-09-15,Sunday,Local Holiday Optional,2024
+2024-09-17,Indra Jatra,Local Holiday,2024
+2024-09-19,Constitution Day,Public Holiday,2024
+2024-09-21,Saturday,Local Holiday,2024
+2024-09-22,September Equinox,Season,2024
+2024-09-25,Jitiya Parwa,Optional Holiday,2024
+2024-09-28,Saturday,Local Holiday,2024
+2024-09-29,Sunday,Local Holiday Optional,2024
+2024-10-03,Ghatasthapana,Public Holiday,2024
+2024-10-05,Saturday,Local Holiday,2024
+2024-10-06,Sunday,Local Holiday Optional,2024
+2024-10-10,Phulpati (Dashain),Public Holiday,2024
+2024-10-10,Astami (Dashain),Public Holiday,2024
+2024-10-11,Nawami (Dashain),Public Holiday,2024
+2024-10-12,Dashami (Dashain),Public Holiday,2024
+2024-10-13,Ekadashi (Dashain),Public Holiday,2024
+2024-10-19,Saturday,Local Holiday,2024
+2024-10-20,Sunday,Local Holiday Optional,2024
+2024-10-26,Saturday,Local Holiday,2024
+2024-10-27,Sunday,Local Holiday Optional,2024
+2024-11-01,Laxmi Puja (Tihar),Public Holiday,2024
+2024-11-02,Gobhardan Pujan (Tihar),Public Holiday,2024
+2024-11-03,Bhai Tika (Tihar),Public Holiday,2024
+2024-11-07,Chhat Parwa,Public Holiday,2024
+2024-11-09,Saturday,Local Holiday,2024
+2024-11-10,Phalgunanda Jayanti,Optional Holiday,2024
+2024-11-15,Guru Nanak Jayanti,Optional Holiday,2024
+2024-11-16,Saturday,Local Holiday,2024
+2024-11-17,Sunday,Local Holiday Optional,2024
+2024-11-18,National Mourning Day,Public Holiday,2024
+2024-11-23,Saturday,Local Holiday,2024
+2024-11-24,Sunday,Local Holiday Optional,2024
+2024-11-30,Saturday,Local Holiday,2024
+2024-12-01,Sunday,Local Holiday Optional,2024
+2024-12-03,International Day of Disabled Persons,Optional Holiday,2024
+2024-12-07,Saturday,Local Holiday,2024
+2024-12-08,Sunday,Local Holiday Optional,2024
+2024-12-14,Saturday,Local Holiday,2024
+2024-12-15,Udhauli Parva,Optional Holiday,2024
+2024-12-21,December Solstice,Season,2024
+2024-12-22,Sunday,Local Holiday Optional,2024
+2024-12-25,Christmas Day,Optional Holiday,2024
+2024-12-28,Saturday,Local Holiday,2024
+2024-12-29,Sunday,Local Holiday Optional,2024
+2024-12-30,Tamu Lhosar,Optional Holiday,2024
+2025-01-04,Saturday,Local Holiday,2025
+2025-01-05,Sunday,Local Holiday Optional,2025
+2025-01-11,Prithvi Jayanti,Public Holiday,2025
+2025-01-12,Sunday,Local Holiday Optional,2025
+2025-01-14,Maghe Sankranti,Public Holiday,2025
+2025-01-18,Saturday,Local Holiday,2025
+2025-01-19,Sunday,Local Holiday Optional,2025
+2025-01-25,Saturday,Local Holiday,2025
+2025-01-26,Sunday,Local Holiday Optional,2025
+2025-01-30,Martyrs' Memorial Day,Public Holiday,2025
+2025-01-30,Sonam Losar (Tamang New Year),Public Holiday,2025
+2025-02-01,Saturday,Local Holiday,2025
+2025-02-02,Sunday,Local Holiday Optional,2025
+2025-02-08,Saturday,Local Holiday,2025
+2025-02-09,Sunday,Local Holiday Optional,2025
+2025-02-15,Saturday,Local Holiday,2025
+2025-02-16,Sunday,Local Holiday Optional,2025
+2025-02-19,National Democracy Day,Public Holiday,2025
+2025-02-22,Saturday,Local Holiday,2025
+2025-02-23,Sunday,Local Holiday Optional,2025
+2025-02-26,Maha Shivaratri,Public Holiday,2025
+2025-02-28,Gyalpo Losar,Optional Holiday,2025
+2025-03-01,Saturday,Local Holiday,2025
+2025-03-02,Ramadan Start,Observance,2025
+2025-03-08,Nari Dibas,Public Holiday,2025
+2025-03-09,Sunday,Local Holiday Optional,2025
+2025-03-13,Holi Purnima (Hill region),Local Holiday,2025
+2025-03-14,Holi Purnima (Terai region),Local Holiday,2025
+2025-03-15,Saturday,Local Holiday,2025
+2025-03-16,Sunday,Local Holiday Optional,2025
+2025-03-20,March Equinox,Season,2025
+2025-03-22,Saturday,Local Holiday,2025
+2025-03-23,Sunday,Local Holiday Optional,2025
+2025-03-29,Godhe Yatra,Local Holiday,2025
+2025-03-30,Sunday,Local Holiday Optional,2025
+2025-03-31,Ramjan Edul Fikra,Optional Holiday,2025
+2025-04-05,Saturday,Local Holiday,2025
+2025-04-06,Ram Nawami,Public Holiday,2025
+2025-04-12,Saturday,Local Holiday,2025
+2025-04-13,Sunday,Local Holiday Optional,2025
+2025-04-14,Nepali New Year,Public Holiday,2025
+2025-04-19,Saturday,Local Holiday,2025
+2025-04-20,Sunday,Local Holiday Optional,2025
+2025-04-26,Saturday,Local Holiday,2025
+2025-04-27,Sunday,Local Holiday Optional,2025
+2025-05-01,Majdoor Divas,Public Holiday,2025
+2025-05-03,Saturday,Local Holiday,2025
+2025-05-04,Sunday,Local Holiday Optional,2025
+2025-05-10,Saturday,Local Holiday,2025
+2025-05-11,Sunday,Local Holiday Optional,2025
+2025-05-12,Ubhauli Parva,Optional Holiday,2025
+2025-05-12,Buddha Jayanti,Public Holiday,2025
+2025-05-17,Saturday,Local Holiday,2025
+2025-05-18,Sunday,Local Holiday Optional,2025
+2025-05-24,Saturday,Local Holiday,2025
+2025-05-25,Sunday,Local Holiday Optional,2025
+2025-05-29,Ganatantra Diwas (Republic Day),Public Holiday,2025
+2025-05-31,Saturday,Local Holiday,2025
+2025-06-01,Sunday,Local Holiday Optional,2025
+2025-06-04,Elimination of Caste Discrimination and Untouchability Day,Observance,2025
+2025-06-07,Edul Aajaha (Tentative Date),Optional Holiday,2025
+2025-06-08,Sunday,Local Holiday Optional,2025
+2025-06-14,Saturday,Local Holiday,2025
+2025-06-15,Sunday,Local Holiday Optional,2025
+2025-06-21,June Solstice,Season,2025
+2025-06-22,Sunday,Local Holiday Optional,2025
+2025-06-28,Saturday,Local Holiday,2025
+2025-06-29,Sunday,Local Holiday Optional,2025
+2025-07-05,Saturday,Local Holiday,2025
+2025-07-06,Sunday,Local Holiday Optional,2025
+2025-07-12,Saturday,Local Holiday,2025
+2025-07-13,Sunday,Local Holiday Optional,2025
+2025-07-19,Saturday,Local Holiday,2025
+2025-07-20,Sunday,Local Holiday Optional,2025
+2025-07-26,Saturday,Local Holiday,2025
+2025-07-27,Sunday,Local Holiday Optional,2025
+2025-08-02,Saturday,Local Holiday,2025
+2025-08-03,Sunday,Local Holiday Optional,2025
+2025-08-09,Janai Purnima,Public Holiday,2025
+2025-08-10,Gai Jatra,Local Holiday,2025
+2025-08-16,Shree Krishna Janamashtami,Public Holiday,2025
+2025-08-17,Sunday,Local Holiday Optional,2025
+2025-08-23,Saturday,Local Holiday,2025
+2025-08-24,Sunday,Local Holiday Optional,2025
+2025-08-26,Hartalika Teej,Optional Holiday,2025
+2025-08-30,Saturday,Local Holiday,2025
+2025-08-31,Gaura Parba,Optional Holiday,2025
+2025-09-06,Indra Jatra,Local Holiday,2025
+2025-09-07,Civil Service Day,Observance,2025
+2025-09-13,Saturday,Local Holiday,2025
+2025-09-14,Sunday,Local Holiday Optional,2025
+2025-09-15,Jitiya Parwa,Optional Holiday,2025
+2025-09-19,Constitution Day,Public Holiday,2025
+2025-09-20,Saturday,Local Holiday,2025
+2025-09-21,Sunday,Local Holiday Optional,2025
+2025-09-22,Ghatasthapana,Public Holiday,2025
+2025-09-23,September Equinox,Season,2025
+2025-09-27,Saturday,Local Holiday,2025
+2025-09-28,Sunday,Local Holiday Optional,2025
+2025-09-29,Phulpati (Dashain),Public Holiday,2025
+2025-09-30,Astami (Dashain),Public Holiday,2025
+2025-10-01,Nawami (Dashain),Public Holiday,2025
+2025-10-02,Dashami (Dashain),Public Holiday,2025
+2025-10-03,Ekadashi (Dashain),Public Holiday,2025
+2025-10-04,Duwadashi (Dashain),Public Holiday,2025
+2025-10-05,Sunday,Local Holiday Optional,2025
+2025-10-11,Saturday,Local Holiday,2025
+2025-10-12,Sunday,Local Holiday Optional,2025
+2025-10-18,Saturday,Local Holiday,2025
+2025-10-19,Sunday,Local Holiday Optional,2025
+2025-10-20,Laxmi Puja (Tihar),Public Holiday,2025
+2025-10-21,Gai Tihar,Public Holiday,2025
+2025-10-22,Gobhardan Pujan (Tihar),Public Holiday,2025
+2025-10-23,Bhai Tika (Tihar),Public Holiday,2025
+2025-10-24,Tihar Holiday,Public Holiday,2025
+2025-10-25,Saturday,Local Holiday,2025
+2025-10-26,Sunday,Local Holiday Optional,2025
+2025-10-27,Chhat Parwa,Public Holiday,2025
+2025-11-01,Saturday,Local Holiday,2025
+2025-11-02,Sunday,Local Holiday Optional,2025
+2025-11-05,Guru Nanak Jayanti,Optional Holiday,2025
+2025-11-08,Saturday,Local Holiday,2025
+2025-11-09,Sunday,Local Holiday Optional,2025
+2025-11-11,Phalgunanda Jayanti,Optional Holiday,2025
+2025-11-15,Saturday,Local Holiday,2025
+2025-11-16,Sunday,Local Holiday Optional,2025
+2025-11-22,Saturday,Local Holiday,2025
+2025-11-23,Sunday,Local Holiday Optional,2025
+2025-11-29,Saturday,Local Holiday,2025
+2025-11-30,Sunday,Local Holiday Optional,2025
+2025-12-03,International Day of Disabled Persons,Optional Holiday,2025
+2025-12-04,Udhauli Parva,Optional Holiday,2025
+2025-12-06,Saturday,Local Holiday,2025
+2025-12-07,Sunday,Local Holiday Optional,2025
+2025-12-13,Saturday,Local Holiday,2025
+2025-12-14,Sunday,Local Holiday Optional,2025
+2025-12-20,Saturday,Local Holiday,2025
+2025-12-21,December Solstice,Season,2025
+2025-12-25,Christmas Day,Optional Holiday,2025
+2025-12-27,Saturday,Local Holiday,2025
+2025-12-28,Sunday,Local Holiday Optional,2025
+2025-12-30,Tamu Lhosar,Optional Holiday,2025
