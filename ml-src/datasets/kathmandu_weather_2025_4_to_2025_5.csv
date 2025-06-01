@@ -1,5 +1,5 @@
 timestamp,temperature,dew_point,humidity,wind,wind_speed,wind_gust,pressure,precipitation,condition
-2025-05-02T18:15:00,63.0,55.0,77.0,SE,3.0,0.0,25.64,0.0,Mostly Cloudy
+2025-05-02T18:1 5:00,63.0,55.0,77.0,SE,3.0,0.0,25.64,0.0,Mostly Cloudy
 2025-05-02T18:45:00,63.0,57.0,82.0,E,5.0,0.0,25.62,0.0,Mostly Cloudy
 2025-05-02T19:15:00,61.0,57.0,88.0,E,3.0,0.0,25.62,0.0,Partly Cloudy
 2025-05-02T19:45:00,61.0,57.0,88.0,E,3.0,0.0,25.59,0.0,Fair

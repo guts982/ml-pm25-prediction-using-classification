@@ -17,7 +17,7 @@ PM25_CLASS_RANGES = {
     'Hazardous': '> 250.4 µg/m³'
 }
 
-future_data = pd.read_csv('./data/ktm_pm25_class_2025_4_to_2025_5_dataset.csv')
+future_data = pd.read_csv('./data/kathmandu_pm25_class_2025_4_to_2025_5_dataset.csv')
 
 # --- Custom FeatureEngineer Class (Must be defined for loading the pipeline) ---
 class FeatureEngineer(BaseEstimator, TransformerMixin):
@@ -163,7 +163,6 @@ def predict_with_history(model, feature_engineer_instance, X_train_columns, hist
 
     return predicted_class
 
-
 # --- Load Models and Artifacts ---
 @st.cache_resource
 def load_artifacts():
@@ -176,54 +175,23 @@ def load_artifacts():
         rf_accuracy = joblib.load('./model_pipelines/rf_validation_accuracy.pkl')
         xgb_accuracy = joblib.load('./model_pipelines/xgb_validation_accuracy.pkl')
 
-        # Instantiate FeatureEngineer for use in prediction function
-        # It needs to be fitted on a representative dataset to learn rare_conditions_
-        # For simplicity, we'll fit it on a dummy dataframe or assume it's pre-fitted
-        # A more robust approach would be to save the fitted FeatureEngineer itself.
-        # For this example, we'll re-initialize and assume it will learn from the first few
-        # history entries or that its `fit` method is robust enough.
-        # Ideally, you'd save the *fitted* FeatureEngineer instance.
-        # For now, let's create a dummy fit for its internal state (rare_conditions_)
-        # or load a pre-fitted one if available.
-        # Since FeatureEngineer's fit only depends on 'condition' column, we can
-        # simulate a fit if it was not saved.
         feature_engineer_instance = FeatureEngineer()
-        # To properly initialize rare_conditions_, you'd need to fit it on some data.
-        # For a deployed app, you'd save the fitted FeatureEngineer instance.
-        # As a workaround, we'll ensure the history buffer contains enough data for it
-        # to potentially learn if it was designed to learn on the fly.
-        # However, for consistency, it's best if the FeatureEngineer is fitted once
-        # on the training data and then saved/loaded.
-        # Assuming the preprocessor within the pipeline handles this, we might not
-        # need to explicitly fit FeatureEngineer again if it's only used for transform.
-        # Let's assume the pipeline's preprocessor handles the one-hot encoding
-        # and FeatureEngineer's `fit` method is only for `rare_conditions_` which
-        # should ideally be part of the saved pipeline.
-        # If `rare_conditions_` is critical for prediction, you must save/load it.
-        # For this example, we'll proceed assuming the `transform` method is robust
-        # enough or `rare_conditions_` is not strictly needed for unseen categories.
-        # A better approach: Save the *entire* preprocessor (which contains FeatureEngineer)
-        # as part of the pipeline.
 
         return rf_pipeline, xgb_pipeline, le, X_train_columns, feature_engineer_instance, rf_accuracy, xgb_accuracy
     except FileNotFoundError:
         st.error("Model files not found. Please ensure 'random_forest_pipeline.pkl', "
                  "'xgboost_pipeline.pkl', 'label_encoder.pkl', and 'X_train_columns.pkl' "
                  "are in the same directory as this script.")
-        st.stop() # Stop the app if files are missing
+        st.stop()
 
 rf_model, xgb_model, le_loaded, X_train_cols_loaded, fe_instance, rf_val_accuracy, xgb_val_accuracy = load_artifacts()
-
 # Initialize session state for history buffer if not already present
 if 'history_buffer' not in st.session_state:
-    # Example initial history (replace with actual recent data from your database/source)
-    # This history should be enough to calculate all lags (max_lag = 3)
     st.session_state.history_buffer = [
-        {'date': '2025-04-27', 'temperature': 24.0, 'dew_point': 14.0, 'humidity': 58.0, 'wind_speed': 9.0, 'pressure': 1011.0, 'condition': 'Cloudy', 'wind': 'N', 'holiday': 0, 'pm25_class': le_loaded.transform(['Moderate'])[0]},
-        {'date': '2025-04-28', 'temperature': 26.0, 'dew_point': 16.0, 'humidity': 62.0, 'wind_speed': 11.0, 'pressure': 1013.0, 'condition': 'Rain', 'wind': 'NE', 'holiday': 0, 'pm25_class': le_loaded.transform(['Unhealthy'])[0]},
-        {'date': '2025-04-29', 'temperature': 25.0, 'dew_point': 15.0, 'humidity': 60.0, 'wind_speed': 10.0, 'pressure': 1012.0, 'condition': 'Clear', 'wind': 'N', 'holiday': 0, 'pm25_class': le_loaded.transform(['Moderate'])[0]}
+        {'date': '2025-04-26', 'pm25_class': le_loaded.transform(['Hazardous'])[0], 'temperature': 22.520833, 'dew_point': 7.000000, 'humidity': 36.583333, 'wind_speed': 6.770833, 'pressure': 862.937500, 'condition': 'Fair', 'wind': 'E', 'holiday': 2},
+        {'date': '2025-04-27', 'pm25_class': le_loaded.transform(['Unhealthy'])[0], 'temperature': 12.091667, 'dew_point': 11.250000, 'humidity': 56.437500, 'wind_speed': 8.416667, 'pressure': 865.791667, 'condition': 'Fair', 'wind': 'E', 'holiday': 1},
+        {'date': '2025-04-28', 'pm25_class': le_loaded.transform(['Low'])[0], 'temperature': 17.270833, 'dew_point': 12.812500, 'humidity': 77.395833, 'wind_speed': 6.458333, 'pressure': 865.187500, 'condition': 'Mostly Cloudy', 'wind': 'VAR', 'holiday': 0}
     ]
-    # Also store the label encoder in session state for inverse transformation
     st.session_state.label_encoder = le_loaded
 
 # --- Streamlit UI ---
@@ -232,23 +200,22 @@ st.markdown("""
 This application predicts the PM2.5 air quality class based on current meteorological conditions and recent historical data.
 """)
 
-
 st.header("Current Day's Meteorological Data")
 
 # Input fields for current day's data
 col1, col2, col3 = st.columns(3)
 with col1:
-    temperature = st.number_input("Temperature (°C)", min_value=-20.0, max_value=40.0, value=25.0, step=0.1)
-    humidity = st.number_input("Humidity (%)", min_value=0.0, max_value=100.0, value=60.0, step=0.1)
-    wind_speed = st.number_input("Wind Speed (km/h)", min_value=0.0, max_value=100.0, value=10.0, step=0.1)
+    temperature = st.number_input("Temperature (°C)", min_value=-20.0, max_value=40.0, value=19.0, step=0.1)
+    humidity = st.number_input("Humidity (%)", min_value=0.0, max_value=100.0, value=73.6, step=0.1)
+    wind_speed = st.number_input("Wind Speed (km/h)", min_value=0.0, max_value=100.0, value=7.4, step=0.1)
 with col2:
-    dew_point = st.number_input("Dew Point (°C)", min_value=-20.0, max_value=30.0, value=15.0, step=0.1)
-    pressure = st.number_input("Pressure (hPa)", min_value=800.0, max_value=1100.0, value=1012.0, step=0.1)
-    wind_direction = st.selectbox("Wind Direction", options=['N', 'NNE', 'NE', 'ENE', 'E', 'ESE', 'SE', 'SSE', 'S', 'SSW', 'SW', 'WSW', 'W', 'WNW', 'NW', 'NNW', 'CALM', 'VAR'], index=0)
+    dew_point = st.number_input("Dew Point (°C)", min_value=-20.0, max_value=30.0, value=13.5, step=0.1)
+    pressure = st.number_input("Pressure (hPa)", min_value=800.0, max_value=1100.0, value=864.9, step=0.1)
+    wind_direction = st.selectbox("Wind Direction", options=['N', 'NNE', 'NE', 'ENE', 'E', 'ESE', 'SE', 'SSE', 'S', 'SSW', 'SW', 'WSW', 'W', 'WNW', 'NW', 'NNW', 'CALM', 'VAR'], index=16)
 with col3:
-    condition = st.selectbox("Weather Condition", options=['Clear', 'Cloudy', 'Rain', 'Fog', 'Haze', 'Mist', 'Smoke', 'Dust', 'Thunderstorm', 'Other'], index=0)
-    holiday = st.selectbox("Is it a Holiday?", options=[0, 1, 2], format_func=lambda x: {0: 'No Holiday', 1: 'Holiday', 2: 'Optional Holiday'}.get(x)) #type:ignore
-    current_date = st.date_input("Date for Prediction", value=pd.to_datetime('today'))
+    condition = st.selectbox("Weather Condition", options=['Fair', 'Mostly Cloudy', 'CALM'], index=1)
+    holiday = st.selectbox("Is it a Holiday?", options=[0, 1, 2], index=0)
+    current_date = st.date_input("Date for Prediction", value=pd.to_datetime('2025-04-29'))
 
 
 # Prepare the new data point
@@ -267,7 +234,11 @@ new_data_point = {
 st.markdown("---")
 st.header("Prediction")
 
-
+# --- Display Model Accuracy in the Main App ---
+st.subheader("Model Performance (Validation Set)")
+st.markdown(f"**Random Forest Accuracy:** {rf_val_accuracy * 100:.2f}%")
+st.markdown(f"**XGBoost Accuracy:** {xgb_val_accuracy * 100:.2f}%")
+st.markdown("---")
 
 if st.button("Predict PM2.5 Class"):
     # Add a temporary pm25_class to new_data_point for lagged feature calculation
@@ -313,12 +284,6 @@ if st.button("Predict PM2.5 Class"):
     # Ensure history buffer doesn't grow indefinitely
     if len(st.session_state.history_buffer) > 3: # max_lag
         st.session_state.history_buffer.pop(0)
-
-# --- Display Model Accuracy in the Main App ---
-st.subheader("Model Performance (Validation Set)")
-st.markdown(f"**Random Forest Accuracy:** {rf_val_accuracy * 100:.2f}%")
-st.markdown(f"**XGBoost Accuracy:** {xgb_val_accuracy * 100:.2f}%")
-st.markdown("---")
 
 st.markdown("---")
 st.subheader("Current History Buffer (Last 3 Days)")
